@@ -8,5 +8,19 @@
     margin: 0 auto;
     object-fit: cover;
     border: 2px solid #030303da;
+
+}
+.navbar-items ul li{
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+    margin-top: 30px;
+    display: flex;
+    vertical-align: middle;
     
+
+}
+.navbar-items ul li svg{
+    margin-left: 10px;
+    margin-right: 25px;
 }
